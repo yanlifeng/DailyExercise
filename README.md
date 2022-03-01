@@ -21,3 +21,10 @@ We can get dp\[u][0] first by dp\[u][0]=sigma dp\[son][0] where satisfy son is l
 k2==0 solution has some bug.   **24 points**
 
 //TODO
+
+## DOJ 460
+easy dp
+
+## DOJ 451
+xor[root->u]^xor[root->v]+val[lca] or just lca
+**remember the last for in lca must 20->1**
