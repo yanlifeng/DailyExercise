@@ -35,3 +35,6 @@ zhuxi tree
 ## DOJ 454
 according to the features of OR, we can process from high bit to low avidly. Specificly, for bit k, if we can still span a tree by delete all related edges, then directly delete them, and this bit don't contribute to the answer. 
 !! 32 * BFS will get TLE whether using vector or hash table to store the graph. Finally I use Union-find set to optimize it.
+
+## DOJ 289
+simple dp
