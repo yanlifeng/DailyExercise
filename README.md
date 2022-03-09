@@ -47,3 +47,6 @@ simple dp
 ## Lco 1514
 A*B*C --> e^(log(A)+log(B)+log(C))
 then dij+head or sth.
+
+## doj 496
+simple set
