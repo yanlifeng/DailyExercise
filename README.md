@@ -50,3 +50,6 @@ then dij+head or sth.
 
 ## doj 496
 simple set
+
+## doj 500
+simple xor or
